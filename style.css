@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,300&display=swap');
 
 
 body, ul,h3, p{
@@ -149,6 +149,8 @@ button {
 em {
     font-size: 36px;
     color: #1f2937;
+    font-weight: 300;
+    
 }
 
 .author {
